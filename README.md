@@ -7,7 +7,8 @@ Skinalyze is an artificial intelligence-based application designed to detect var
 This application aims to increase the accessibility of skin health services, especially in remote areas, and reduce the burden on medical personnel in diagnosing common skin diseases. Skinalyze is a practical solution to maintain skin health while supporting users' medical decisions before consulting a doctor.
 
 
-##Skinalyze | C242-PS240
+##Skinalyze C242-PS240
+
 | Name | Bangkit ID   |  Learning Path | Profile   |
 | Upiyah | A393B4KX4381 | Mobile Development | [profile]()|
 | Aditya Adi Nugraha | A009B4KY0108 | Mobile Development | [profile](https://www.linkedin.com/in/aditya-ardi-nugraha-218967330/)|
