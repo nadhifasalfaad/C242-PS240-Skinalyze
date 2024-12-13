@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "foto": "https://storage.googleapis.com/home-products/1.jpeg",
+        "title": "SKINTIFIC Niacinamide Bright Boost Clay Stick",
+        "description": "The SKINTIFIC Niacinamide Bright Boost Clay Stick is a skincare product designed to brighten the skin and reduce impurities. This clay stick contains Niacinamide, Sea Salt, Sodium, and Thalassine Acid, which help to boost radiance and glow. It is convenient to use and suitable for targeting specific areas of the face that need extra care.",
+        "how_to_use": [
+            "1. Cleanse Your Face: Start with a clean face to ensure all dirt and impurities are removed.",
+            "2. Apply the Clay Stick: Twist the bottom of the stick to reveal the product. Gently apply the clay stick directly to your face, focusing on areas that need brightening and impurity reduction.",
+            "3. Leave On: Let the clay mask sit on your skin for about 10-15 minutes until it dries ",
+            "4. Rinse Off: Rinse your face with warm water and gently pat dry."
+        ],
+        "skin_type": [
+            "- All Skin Types",
+            "- Dull Skin",
+            "- Oily and Acne-Prone Skin"
+        ]
+    },
+    {
+        "id": 2,
+        "foto": "https://storage.googleapis.com/home-products/2.jpeg",
+        "title": "LANEIGE Glowy Makeup Serum",
+        "description": "LANEIGE Glowy Makeup Serum is a hydrating and long-lasting makeup base serum designed to give your skin a radiant, dewy finish. With its lightweight formula, this serum preps your skin for makeup application, ensuring it stays fresh and glowing throughout the day. Enriched with diamond mineral powder and hydroglowing complex, this serum brightens and evens out your complexion while providing hydration.",
+        "how_to_use": [
+            "1.Cleanse Your Face: Start with clean, dry skin.",
+            "2.Apply the Serum: Using the dropper, dispense a few drops of the LANEIGE Glowy Makeup Serum onto your fingertips.",
+            "3.Spread Evenly: Gently spread the serum evenly over your face, focusing on areas that need extra hydration.",
+            "4.Follow with Makeup: Allow the serum to absorb fully before applying your makeup. This will create a smooth, glowing base for your makeup."
+        ],
+        "skin_type": [
+            "- All Skin Types",
+            "- Dull Skin",
+            "- Dry Skin"
+        ]
+    },
+    {
+        "id": 3,
+        "foto": "https://storage.googleapis.com/home-products/3.jpeg",
+        "title": "Glad2Glow Pomegranate 5% Niacinamide Brightening Moisturizer",
+        "description": "The Glad2Glow Pomegranate 5% Niacinamide Brightening Moisturizer is designed to reduce blemishes and diminish dullness. This moisturizer contains 5% Niacinamide and Pomegranate Extract, which are known for their brightening properties and ability to improve skin texture. It comes in a 30g container and aims to make your skin appear more radiant and glowing.",
+        "how_to_use": [
+            "1. Cleanse Your Skin: Start with clean, dry skin.",
+            "2.Apply the Moisturizer: Take a small amount of the Glad2Glow Pomegranate 5% Niacinamide Brightening Moisturizer and apply it evenly on your face.",
+            "3.Massage Gently: Gently massage the moisturizer into your skin until fully absorbed.",
+            "4.Use Twice Daily: For best results, use the moisturizer in the morning and at night."
+        ],
+        "skin_type": [
+            "- All Skin Types",
+            "- Dull Skin",
+            "- Blemish-Prone Skin"
+        ]
+    },
+    {
+        "id": 4,
+        "foto": "https://storage.googleapis.com/home-products/4.jpeg",
+        "title": "Grace and Glow Brightening Sun Body Serum",
+        "description": "Grace and Glow Brightening Sun Body Serum is a skincare product designed to protect the skin from the sun while providing brightening benefits. This serum contains Alpha Arbutin and Bearberry, which are known for their brightening properties. With broad-spectrum SPF 30 PA+++, this product offers effective protection against both UVA and UVB rays, helping to prevent sunburn and photoaging.",
+        "how_to_use": [
+            "1. Cleanse Your Skin: Start with clean, dry skin.",
+            "2. Apply the Serum: Dispense a generous amount of the Grace and Glow Brightening Sun Body Serum and apply it evenly over all exposed areas of your body.",
+            "3. Massage Gently: Gently massage the serum into your skin until fully absorbed.",
+            "4. Reapply as Needed: Reapply every two hours, especially after swimming, sweating, or towel drying."
+        ],
+        "skin_type": [
+            "- All Skin Types",
+            "- Dull Skin",
+            "- Sun-Exposed"
+        ]
+    },
+    {
+        "id": 5,
+        "foto": "https://storage.googleapis.com/home-products/5.jpeg",
+        "title": "SKINTIFIC 5X Ceramide Serum Sunscreen",
+        "description": "The SKINTIFIC 5X Ceramide Serum Sunscreen is a skincare product that provides broad-spectrum protection against UVA and UVB rays. It contains 5X Ceramide and Hyaluronic Acid, which help to hydrate and strengthen the skin barrier. With an SPF 50+ and PA++++ rating, this serum sunscreen offers high protection while keeping the skin moisturized and smooth. The lightweight formula ensures it absorbs quickly without leaving a greasy residue.",
+        "how_to_use": [
+            "1. Cleanse Your Face: Start with a clean face.",
+            "2. Apply the Sunscreen: Take an adequate amount of the SKINTIFIC 5X Ceramide Serum Sunscreen and apply it evenly over your face and neck.",
+            "3. Massage Gently: Gently massage the product into your skin until fully absorbed.",
+            "4. Reapply as Needed: Reapply every two hours, especially after swimming or sweating, for continuous protection."
+        ],
+        "skin_type": [
+            "- All Skin Types",
+            "- Dull Skin",
+            "- Sensitive Skin"
+        ]
+    },
+    {
+        "id": 6,
+        "foto": "https://storage.googleapis.com/home-products/6.jpeg",
+        "title": "Glad2Glow KIWI 3D ACID ACNE MOISTURIZER",
+        "description": "The Glad2Glow KIWI 3D ACID ACNE MOISTURIZER is a skincare product designed to soothe acne and redness while helping to control oil. It comes in a green container, emphasizing the kiwi ingredient which is known for its soothing and antioxidant properties. The product aims to provide relief for irritated skin and help manage acne-prone areas.",
+        "how_to_use": [
+            "1. Cleanse Your Face: Begin with a clean face, ensuring all makeup and impurities are removed.",
+            "2. GApply the Moisturizer: Take a small amount of the Glad2Glow KIWI 3D ACID ACNE MOISTURIZER and gently apply it to your face in circular motions.",
+            "3. Focus on Problem Areas: Pay extra attention to areas with acne or redness.",
+            "4. Use Twice Daily: Apply the moisturizer in the morning and evening for best results."
+        ],
+        "skin_type": [
+            "- All Skin Types",
+            "- Dull Skin",
+            "- Sensitive Skin"
+        ]
+    },
+    {
+        "id": 7,
+        "foto": "https://storage.googleapis.com/home-products/7.jpeg",
+        "title": "The Ordinary Retinol 0.5% in Squalane",
+        "description": "The product in the image is The Ordinary Retinol 0.5% in Squalane. This is a water-free solution that contains 0.5% pure retinol. It is formulated to help reduce the appearance of fine lines, photodamage, and general skin aging.The product comes in a brown glass bottle with a dropper for easy application.",
+        "how_to_use": [
+            "1. Cleanse Your Face: Start with a clean and dry face.",
+            "2. Apply the Product: Dispense a few drops of The Ordinary Retinol 0.5% in Squalane onto your fingertips and gently apply it to your face at night.",
+            "3. Avoid Eye Area: Be sure to avoid the eye area.",
+            "4. Use Sunscreen: Due to retinols ability to increase skin sensitivity to sunlight, its crucial to apply sunscreen in the morning after using this product at night."
+        ],
+        "skin_type": [
+            "- Aging Skin",
+            "- Photodamaged Skin"
+        ]
+    },
+    {
+        "id": 8,
+        "foto": "https://storage.googleapis.com/home-products/8.jpeg",
+        "title": "SKINTIFIC Glycolic Acid Daily Clarifying Toner",
+        "description": "The SKINTIFIC Glycolic Acid Daily Clarifying Toner is a toner formulated to cleanse pores and make the skin smooth and radiant. This product contains Niacinamide, PHA, and 5X Ceramide, which help brighten the skin, reduce bumps, and tighten pores.",
+        "how_to_use": [
+            "1. Cleanse Your Face: Start by cleansing your face with a cleanser suitable for your skin type.",
+            "2. Apply the Toner: Pour a sufficient amount of toner onto a cotton pad or your palm.",
+            "3. Spread Evenly: Gently spread the toner evenly over your face and neck, avoiding the eye area.",
+            "4. Use Regularly: For best results, use the toner regularly, both in the morning and at night."
+        ],
+        "skin_type": [
+            "- Large pores",
+            "- Uneven skin texture",
+            "- Dullness"
+        ]
+    }
+]
