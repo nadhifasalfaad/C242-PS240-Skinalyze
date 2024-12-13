@@ -10,6 +10,7 @@ This application aims to increase the accessibility of skin health services, esp
 ##Skinalyze C242-PS240
 
 | Name | Bangkit ID   |  Learning Path | Profile   |
+| ------------ | ------------ | ------------ | ------------ |
 | Upiyah | A393B4KX4381 | Mobile Development | [profile]()|
 | Aditya Adi Nugraha | A009B4KY0108 | Mobile Development | [profile](https://www.linkedin.com/in/aditya-ardi-nugraha-218967330/)|
 | Sabila Risqi Adriani| M466B4KX3992 | Machine learning | [profile](www.linkedin.com/in/sabila-andriani-7596772a3)|
